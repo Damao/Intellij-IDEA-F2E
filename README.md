@@ -46,7 +46,7 @@ jar: `File > Import Settings`
 ###字体
 `Settings > Editor > Colors & Fonts > Font`
 
-因为没法 GUI 界面中英文分开设置,简单的方法就是安装 [Yahei Consolas hybrid](./resource/YaHei.Consolas.1.11b.ttf) 字体
+因为没法 GUI 界面中英文分开设置,简单的方法就是安装 Yahei Consolas hybrid 字体(群共享有)
 
 字号我这里 17px 英文相对清晰,你可以根据预览来微调
 
