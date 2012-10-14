@@ -56,16 +56,18 @@ jar: `File > Import Settings`
 * 使用最新版
 * 关闭不认识的插件
 * Project 下的文件不要太多,否则会有大量的 I/O
+* 关掉版本控制(svn git 啥的)
 * 升级硬件, SSD 神马的
 
 ###教程
 * [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
-* [Local History](http://ooxx.me/intellij-idea-local-history.orz)
 * [配置 Project](http://ooxx.me/intellij-idea-project.orz)
+* [Local History](http://ooxx.me/intellij-idea-local-history.orz)
 * [Live Template](http://ooxx.me/intellij-idea-live-template.orz)
 * [Task](http://ooxx.me/intellij-idea-task.orz)
 * [File Path](http://ooxx.me/intellij-idea-file-path.orz)
+* [Surround / unwrap](http://ooxx.me/intellij-idea-surround-unwrap.orz)
 
 ---
 
-*此文档由 Intellij IDEA [Markdown 插件](https://github.com/nicoulaj/idea-markdown)编辑,欢迎补充*
+*此文档由 Intellij IDEA [Markdown 插件](https://github.com/nicoulaj/idea-markdown)编辑 && Github 插件提交,欢迎补充*
