@@ -25,6 +25,8 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 ###序列号
 注册机在 因特里基友QQ群(F2E) **149725975** 群共享里有.
 
+所有大版本序列号都是通用的
+
 等你脚的 Intellij IDEA 帮你赚钱了,记得购买正版授权,或者传递 Love 给身边的同学
 
 ###编辑器界面
@@ -67,6 +69,7 @@ jar: `File > Import Settings`
 * [Task](http://ooxx.me/intellij-idea-task.orz)
 * [File Path](http://ooxx.me/intellij-idea-file-path.orz)
 * [Surround / unwrap](http://ooxx.me/intellij-idea-surround-unwrap.orz)
+* [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 
 ---
 
