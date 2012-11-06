@@ -76,6 +76,7 @@ jar: `File > Import Settings`
 * [Surround / unwrap](http://ooxx.me/intellij-idea-surround-unwrap.orz)
 * [Appearance](http://ooxx.me/intellij-idea-appearance.orz)
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
+* [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
 
 ---
 
