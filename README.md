@@ -37,7 +37,8 @@ QQ群人多,严禁跑题,违者T
 等你脚的 Intellij IDEA 帮你赚钱了,记得购买正版授权,或者传递 Love 给身边的同学
 
 ###编辑器界面
-`Settings > Appearance > Look and Feel`, 推荐 Alloy.IDEA Theme
+`Settings > Appearance > Look and Feel`,
+黑色的到 Intellij IDEA 12 才有,叫 Darcula
 
 ###配色
 妹纸到手,第一步就是扒光
