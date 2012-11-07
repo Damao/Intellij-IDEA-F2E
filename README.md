@@ -22,10 +22,12 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 
 社区免费版阉割的略微有点过...自重
 
-###因特里基友QQ群(F2E) **149725975**
-**(此为前端开发编辑器群,严禁讨论 CSS HTML JS PHP 之外的话题,例如 Java 和闲聊等,违者T)**
+###因特里基友QQ群(F2E)
+149725975 (CSS, HTML, JavaScript, PHP Intellij IDE, PHPStorm, WebStorm)
 
-顺便求有木有 Java 群?做关联推荐
+247648963 (Java, Intellij IDEA)
+
+QQ群人多,严禁跑题,违者T
 
 ###序列号
 注册机在群共享里有.
@@ -42,11 +44,15 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 
 Intellij IDEA 的配色是 xml 或 jar 文件
 
-xml: 丢在 `.IntelliJIdea11\config\colors` 重启即可
+xml:
+
+* for Mac OS, ~/Library/Preferences/IntelliJIDEA10CE/colors/
+* for Linux, ~/.IntelliJIDEA10CE/config/colors/
+* for Windows, C:\Documents and Settings\user\.IntelliJIDEA10CE\config\colors
 
 jar: `File > Import Settings`
 
-比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized)
+比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight)
 
 比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/)
 
