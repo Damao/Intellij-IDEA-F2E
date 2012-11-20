@@ -23,11 +23,10 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 社区免费版阉割的略微有点过...自重
 
 ###因特里基友QQ群(F2E)
-149725975 (CSS, HTML, JavaScript, PHP Intellij IDE, PHPStorm, WebStorm)
+149725975 (CSS, HTML, JavaScript, PHP Intellij IDE, PHPStorm, WebStorm)QQ群人多,严禁跑题,违者T
 
-247648963 (Java, Intellij IDEA)
+247648963 (Java, Intellij IDEA)此群比较水,大猫不懂java非群主,自己把持
 
-QQ群人多,严禁跑题,违者T
 
 ###序列号
 注册机在群共享里有.
