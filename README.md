@@ -84,6 +84,7 @@ jar: `File > Import Settings`
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
 * [实现 remote host 远程开发](http://www.cssha.com/webstorm-phpstorm-remote-host)
+* [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
 
 ---
 
