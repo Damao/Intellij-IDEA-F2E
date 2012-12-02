@@ -81,10 +81,12 @@ jar: `File > Import Settings`
 * [File Path](http://ooxx.me/intellij-idea-file-path.orz)
 * [Surround / unwrap](http://ooxx.me/intellij-idea-surround-unwrap.orz)
 * [Appearance](http://ooxx.me/intellij-idea-appearance.orz)
+* [LiveEdit Plugin](http://ooxx.me/intellij-idea-liveedit-plugin.orz)
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
 * [实现 remote host 远程开发](http://www.cssha.com/webstorm-phpstorm-remote-host)
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
+* [安装后的一些设置技巧](http://www.cnblogs.com/sky100/archive/2009/01/22/1379949.html)
 
 ---
 
