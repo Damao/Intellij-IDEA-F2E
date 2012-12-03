@@ -73,6 +73,8 @@ jar: `File > Import Settings`
 * 升级硬件, SSD 神马的
 
 ###教程
+
+* [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)
 * [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
 * [配置 Project](http://ooxx.me/intellij-idea-project.orz)
 * [Local History](http://ooxx.me/intellij-idea-local-history.orz)
@@ -86,6 +88,7 @@ jar: `File > Import Settings`
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
 * [实现 remote host 远程开发](http://www.cssha.com/webstorm-phpstorm-remote-host)
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
+* [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
 * [安装后的一些设置技巧](http://www.cnblogs.com/sky100/archive/2009/01/22/1379949.html)
 
 ---
