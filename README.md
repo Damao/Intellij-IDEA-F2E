@@ -72,6 +72,12 @@ jar: `File > Import Settings`
 * 关掉版本控制(svn git 啥的)
 * 升级硬件, SSD 神马的
 
+
+###FAQ
+
+* 如何自动换行? 答:全局 settings>editor>use soft wraps in editor ; 当前文档 在行号的位置右键选择 use soft wraps
+* 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用重构(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现
+
 ###教程
 
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)
