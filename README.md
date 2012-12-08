@@ -87,6 +87,7 @@ jar: `File > Import Settings`
 * [Task](http://ooxx.me/intellij-idea-task.orz)
 * [File Path](http://ooxx.me/intellij-idea-file-path.orz)
 * [Surround / unwrap](http://ooxx.me/intellij-idea-surround-unwrap.orz)
+* [Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)
 * [Appearance](http://ooxx.me/intellij-idea-appearance.orz)
 * [LiveEdit Plugin](http://ooxx.me/intellij-idea-liveedit-plugin.orz)
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
