@@ -12,35 +12,30 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 
 切莫活在别人的世界里
 
-##初次接触
-下面是屌丝问的最多的问题
-
-###编辑器选择
+##编辑器选择
 配置较差的同学推荐 PHPStrom , 因为前端开发的同学基本都会玩点 PHP, 所以不推荐 WebStorm
 
 对于配置好,气质佳的同学,墙裂推荐 Intellij IDEA Ultimate, 功能全面,更新最快,性能最好,吃内存相对多
 
 社区免费版阉割的略微有点过...自重
 
-###因特里基友QQ群(人多,严禁跑题,违者T)
+##因特里基友QQ群(人多,严禁跑题,违者T)
 * 149725975 (CSS/HTML/JavaScript/PHP Intellij IDE/PHPStorm/WebStorm)
 * 179131966 (Java/Android, Intellij IDEA)
 
 
-###序列号
-11 注册机在群共享里有.
-
-12 还没出来,建议先试用1个月,到时候八成就有了,群里肯定会有人喊的
+##序列号
+12 注册机在群共享里有了.
 
 所有大版本序列号都是通用的
 
-等你脚的 Intellij IDEA 帮你赚钱了,记得购买正版授权,或者传递 Love 给身边的同学
+等你脚的 Intellij IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学
 
-###编辑器界面
+##编辑器界面
 `Settings > Appearance > Look and Feel`,
 黑色的到 Intellij IDEA 12 才有,叫 Darcula
 
-###配色
+##配色
 妹纸到手,第一步就是扒光
 
 Intellij IDEA 的配色是 xml 或 jar 文件
@@ -64,9 +59,9 @@ jar: `File > Import Settings`
 
 字号我这里 17px 英文相对清晰,你可以根据预览来微调
 
-建议 `Settings > Editor > Colors & Fonts > HTML` 点击预览窗口里的粗体去掉 Bold ,否则满屏粗体很压抑
+IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒服滴
 
-###性能优化
+##性能优化
 * 使用最新版
 * 关闭不认识的插件
 * Project 下的文件不要太多,否则会有大量的 I/O
@@ -74,12 +69,13 @@ jar: `File > Import Settings`
 * 升级硬件, SSD 神马的
 
 
-###FAQ
+##FAQ
 
-* 如何自动换行? 答:全局 settings>editor>use soft wraps in editor ; 当前文档 在行号的位置右键选择 use soft wraps
-* 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用重构(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现
+* 如何自动换行? 答:全局 Settings>Editor>use soft wraps in editor ; 当前文档 在行号的位置右键选择 use soft wraps
+* 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.
+* 右边那条线是啥? Settings>Appearance>Show right margin ; 这玩意儿格式化的时候控制换行区域,不用的话可以禁用
 
-###教程
+##教程
 
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)
 * [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
