@@ -21,7 +21,6 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 
 ##因特里基友QQ群(人多,严禁跑题,违者T)
 * 149725975 (CSS/HTML/JavaScript/PHP Intellij IDE/PHPStorm/WebStorm)
-* 179131966 (Java/Android, Intellij IDEA)
 
 
 ##序列号
@@ -94,6 +93,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
 * [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
 * [安装后的一些设置技巧](http://www.cnblogs.com/sky100/archive/2009/01/22/1379949.html)
+* [插件 QuickJump](http://ooxx.me/intellij-idea-quickjump.orz)
 
 ---
 
