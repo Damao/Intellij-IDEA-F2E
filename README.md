@@ -23,8 +23,8 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 * 149725975 (CSS/HTML/JavaScript/PHP Intellij IDE/PHPStorm/WebStorm)
 
 
-##序列号
-12 注册机在群共享里有了.
+##注册
+在群共享里有了.
 
 所有大版本序列号都是通用的
 
