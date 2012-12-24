@@ -76,24 +76,29 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 ##教程
 
+###基础设置
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)
 * [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
 * [配置 Project](http://ooxx.me/intellij-idea-project.orz)
+* [Appearance](http://ooxx.me/intellij-idea-appearance.orz)
+* [实现 remote host 远程开发](http://www.cssha.com/webstorm-phpstorm-remote-host)
+* [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
+* [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
+* [IDEA 字体美化](http://willerce.com/post/intellij-ide-fontconfig)
+
+###技巧
+
+* [安装后的一些设置技巧](http://www.cnblogs.com/sky100/archive/2009/01/22/1379949.html)
+* [插件 QuickJump](http://ooxx.me/intellij-idea-quickjump.orz)
 * [Local History](http://ooxx.me/intellij-idea-local-history.orz)
 * [Live Template](http://ooxx.me/intellij-idea-live-template.orz)
 * [Task](http://ooxx.me/intellij-idea-task.orz)
 * [File Path](http://ooxx.me/intellij-idea-file-path.orz)
 * [Surround / unwrap](http://ooxx.me/intellij-idea-surround-unwrap.orz)
 * [Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)
-* [Appearance](http://ooxx.me/intellij-idea-appearance.orz)
 * [LiveEdit Plugin](http://ooxx.me/intellij-idea-liveedit-plugin.orz)
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
-* [实现 remote host 远程开发](http://www.cssha.com/webstorm-phpstorm-remote-host)
-* [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
-* [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
-* [安装后的一些设置技巧](http://www.cnblogs.com/sky100/archive/2009/01/22/1379949.html)
-* [插件 QuickJump](http://ooxx.me/intellij-idea-quickjump.orz)
 
 ---
 
