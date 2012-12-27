@@ -20,7 +20,20 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 社区免费版阉割的略微有点过...自重
 
 ##因特里基友QQ群(人多,严禁跑题,违者T)
-* 149725975 (CSS/HTML/JavaScript/PHP Intellij IDE/PHPStorm/WebStorm)
+我在使用XX遇到了问题。
+
+我已经尝试过XXX方法。
+
+现在问题的具体表现、信息为XXXXXX。
+
+
+谁可以帮助我一下！
+
+这样的格式更有利于解决问题。
+
+避免无意义的讨论,如果对大部分人都无价值的话题,建议私聊
+
+149725975 (CSS/HTML/JavaScript/PHP Intellij IDE/PHPStorm/WebStorm)
 
 
 ##注册
@@ -100,6 +113,9 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
 
+#Bug
+* 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡
+* markdown 插件会导致部分版本的 PHPStorm 无法进入软件设置,可以通过删除文件夹来拆卸插件
 ---
 
 *此文档由 Intellij IDEA [Markdown 插件](https://github.com/nicoulaj/idea-markdown)编辑 && Github 插件提交,欢迎补充*
