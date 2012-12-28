@@ -111,6 +111,8 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [LiveEdit Plugin](http://ooxx.me/intellij-idea-liveedit-plugin.orz)
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
+* [Intellij IDEA解决GBK乱码](http://nornor.net/Intellij-IDEA-gbk-fix.htm)
+
 
 #Bug
 * 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡
