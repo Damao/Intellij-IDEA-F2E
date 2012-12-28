@@ -80,7 +80,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 ##FAQ
 
-* 如何自动换行? 答:全局 Settings>Editor>use soft wraps in editor ; 当前文档 在行号的位置右键选择 use soft wraps
+* 如何自动换行? 答:全局 `Settings>Editor > use soft wraps in editor` ; 当前文档 在行号的位置右键选择 use soft wraps
 * 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.
 * 右边那条线是啥? Settings>Appearance>Show right margin ; 这玩意儿格式化的时候控制换行区域,不用的话可以禁用
 * 关闭任意位置编辑（也称虚拟空格）？ Settings>Editor>Allow placement of caret after end of line
@@ -115,8 +115,10 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 
 #Bug
+
 * 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡
 * markdown 插件会导致部分版本的 PHPStorm 无法进入软件设置,可以通过删除文件夹来拆卸插件
+
 ---
 
 *此文档由 Intellij IDEA [Markdown 插件](https://github.com/nicoulaj/idea-markdown)编辑 && Github 插件提交,欢迎补充*
