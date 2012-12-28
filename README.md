@@ -61,7 +61,7 @@ jar: `File > Import Settings`
 
 比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/)
 
-###字体
+###编辑器字体
 `Settings > Editor > Colors & Fonts > Font`
 
 因为没法 GUI 界面中英文分开设置,简单的方法就是安装 Yahei Consolas hybrid 字体(群共享有)
@@ -83,6 +83,8 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 如何自动换行? 答:全局 Settings>Editor>use soft wraps in editor ; 当前文档 在行号的位置右键选择 use soft wraps
 * 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.
 * 右边那条线是啥? Settings>Appearance>Show right margin ; 这玩意儿格式化的时候控制换行区域,不用的话可以禁用
+* 关闭任意位置编辑（也称虚拟空格）？ Settings>Editor>Allow placement of caret after end of line
+* 界面中文乱码？Setting>Appearance>Override default fonts by ，下拉框中选“微软雅黑”，可能找不到微软雅黑，因为中文字体也乱码了，所以先选一个乱码名字的字体就可以找到了。
 
 ##教程
 
@@ -109,6 +111,8 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [LiveEdit Plugin](http://ooxx.me/intellij-idea-liveedit-plugin.orz)
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
+* [Intellij IDEA解决GBK乱码](http://nornor.net/Intellij-IDEA-gbk-fix.htm)
+
 
 #Bug
 * 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡
