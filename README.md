@@ -85,6 +85,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 右边那条线是啥? Settings>Appearance>Show right margin ; 这玩意儿格式化的时候控制换行区域,不用的话可以禁用
 * 关闭任意位置编辑（也称虚拟空格）？ Settings>Editor>Allow placement of caret after end of line
 * 界面中文乱码？Setting>Appearance>Override default fonts by ，下拉框中选“微软雅黑”，可能找不到微软雅黑，因为中文字体也乱码了，所以先选一个乱码名字的字体就可以找到了。
+* 重启IDEA进入上次关闭的project，Setting>General>Reopen Last project on startup
 
 ##教程
 
