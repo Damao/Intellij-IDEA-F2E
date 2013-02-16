@@ -112,6 +112,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
 * [Intellij IDEA解决GBK乱码](http://nornor.net/Intellij-IDEA-gbk-fix.htm)
+* [对比文件/文件夹](http://blog.jetbrains.com/webide/2013/02/comparing-files-and-folders-within-your-ide/)
 
 
 #Bug
