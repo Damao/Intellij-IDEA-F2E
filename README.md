@@ -59,7 +59,7 @@ xml:
 
 jar: `File > Import Settings`
 
-比较常用的有 [IntelliJ-colors-solarized](https://github.com/jkaving/IntelliJ-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight)
+比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight)
 
 比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/)
 
@@ -84,7 +84,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 * 常用快捷键? 'Help > Default Keymap reference'
 * 如何自动换行? 答:全局 `Settings > Editor > use soft wraps in editor` ; 当前文档 在行号的位置右键选择 use soft wraps
-* 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://ooxx.me/IntelliJ-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.
+* 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.
 * 右边那条线是啥? Settings>Appearance>Show right margin ; 这玩意儿格式化的时候控制换行区域,不用的话可以禁用
 * 关闭任意位置编辑（也称虚拟空格）？ Settings>Editor>Allow placement of caret after end of line
 * 界面中文乱码？Setting>Appearance>Override default fonts by ，下拉框中选“微软雅黑”，可能找不到微软雅黑，因为中文字体也乱码了，所以先选一个乱码名字的字体就可以找到了。
@@ -94,29 +94,29 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 ###基础设置
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)
-* [PHP 支持](http://ooxx.me/IntelliJ-idea-php.orz)
-* [配置 Project](http://ooxx.me/IntelliJ-idea-project.orz)
-* [Appearance](http://ooxx.me/IntelliJ-idea-appearance.orz)
+* [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
+* [配置 Project](http://ooxx.me/intellij-idea-project.orz)
+* [Appearance](http://ooxx.me/intellij-idea-appearance.orz)
 * [实现 remote host 远程开发](http://www.cssha.com/webstorm-phpstorm-remote-host)
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
-* [IDEA 配置同步](http://willerce.com/post/IntelliJ-idea-config-sync)
-* [IDEA 字体美化](http://willerce.com/post/IntelliJ-ide-fontconfig)
+* [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
+* [IDEA 字体美化](http://willerce.com/post/intellij-ide-fontconfig)
 * [LESS 自动编译](http://www.screenr.com/yn47)
 
 ###技巧
 
 * [安装后的一些设置技巧](http://www.cnblogs.com/sky100/archive/2009/01/22/1379949.html)
-* [插件 QuickJump](http://ooxx.me/IntelliJ-idea-quickjump.orz)
-* [Local History](http://ooxx.me/IntelliJ-idea-local-history.orz)
-* [Live Template](http://ooxx.me/IntelliJ-idea-live-template.orz)
-* [Task](http://ooxx.me/IntelliJ-idea-task.orz)
-* [File Path](http://ooxx.me/IntelliJ-idea-file-path.orz)
-* [Surround / unwrap](http://ooxx.me/IntelliJ-idea-surround-unwrap.orz)
-* [Refactor 重构](http://ooxx.me/IntelliJ-idea-refactor.orz)
-* [LiveEdit Plugin](http://ooxx.me/IntelliJ-idea-liveedit-plugin.orz)
-* [WebStorm 使用外部工具](http://willerce.com/post/IntelliJ-external-tools)
+* [插件 QuickJump](http://ooxx.me/intellij-idea-quickjump.orz)
+* [Local History](http://ooxx.me/intellij-idea-local-history.orz)
+* [Live Template](http://ooxx.me/intellij-idea-live-template.orz)
+* [Task](http://ooxx.me/intellij-idea-task.orz)
+* [File Path](http://ooxx.me/intellij-idea-file-path.orz)
+* [Surround / unwrap](http://ooxx.me/intellij-idea-surround-unwrap.orz)
+* [Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)
+* [LiveEdit Plugin](http://ooxx.me/intellij-idea-liveedit-plugin.orz)
+* [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
-* [IntelliJ IDEA解决GBK乱码](http://nornor.net/IntelliJ-IDEA-gbk-fix.htm)
+* [IntelliJ IDEA解决GBK乱码](http://nornor.net/Intellij-IDEA-gbk-fix.htm)
 * [对比文件/文件夹](http://blog.jetbrains.com/webide/2013/02/comparing-files-and-folders-within-your-ide/)
 
 
