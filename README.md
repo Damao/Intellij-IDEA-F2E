@@ -42,6 +42,10 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 
 等你脚的 IntelliJ IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学
 
+##促销
+[开源中国正版全系列3折](http://www.oschina.net/shop/jetbrains)
+
+
 ##编辑器界面
 `Settings > Appearance > Look and Feel`,
 黑色的到 IntelliJ IDEA 12 才有,叫 Darcula
@@ -62,6 +66,8 @@ jar: `File > Import Settings`
 比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight)
 
 比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/)
+
+Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.com/mekwall/obsidian-color-scheme)
 
 ###编辑器字体
 `Settings > Editor > Colors & Fonts > Font`
@@ -97,6 +103,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
 * [配置 Project](http://ooxx.me/intellij-idea-project.orz)
 * [Appearance](http://ooxx.me/intellij-idea-appearance.orz)
+* [IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
 * [实现 remote host 远程开发](http://www.cssha.com/webstorm-phpstorm-remote-host)
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
 * [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
@@ -118,12 +125,14 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
 * [IntelliJ IDEA解决GBK乱码](http://nornor.net/Intellij-IDEA-gbk-fix.htm)
 * [对比文件/文件夹](http://blog.jetbrains.com/webide/2013/02/comparing-files-and-folders-within-your-ide/)
+* [Emmet/ZenCoding 快捷键](http://docs.emmet.io/cheat-sheet/)
 
 
 #Bug
 
 * 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡
 * markdown 插件会导致部分版本的 PHPStorm 无法进入软件设置,可以通过删除文件夹来拆卸插件
+* 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
 
 ---
 
