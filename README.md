@@ -63,7 +63,7 @@ xml:
 
 jar: `File > Import Settings`
 
-比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight)
+比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight) ，[Obsidian](https://github.com/mekwall/obsidian-color-scheme 'A dark color scheme for code editors and highlighters')
 
 比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/)
 
@@ -108,7 +108,8 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
 * [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
 * [IDEA 字体美化](http://willerce.com/post/intellij-ide-fontconfig)
-* [LESS 自动编译](http://www.screenr.com/yn47)
+* [LESS 自动编译](http://www.screenr.com/yn47) *(WebStorm 6)*
+* [Less -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*
 
 ###技巧
 
@@ -127,7 +128,6 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [对比文件/文件夹](http://blog.jetbrains.com/webide/2013/02/comparing-files-and-folders-within-your-ide/)
 * [Emmet/ZenCoding 快捷键](http://docs.emmet.io/cheat-sheet/)
 
-
 #Bug
 
 * 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡
@@ -136,4 +136,4 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 ---
 
-*此文档由 IntelliJ IDEA [Markdown 插件](https://github.com/nicoulaj/idea-markdown)编辑 && Github 插件提交,欢迎补充*
+*此文档由 IntelliJ IDEA [Markdown 插件](https://github.com/nicoulaj/idea-markdown)编辑 && Github 插件提交,欢迎补充*())
