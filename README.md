@@ -108,7 +108,8 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
 * [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
 * [IDEA 字体美化](http://willerce.com/post/intellij-ide-fontconfig)
-* [LESS 自动编译](http://www.screenr.com/yn47)
+* [LESS 自动编译](http://www.screenr.com/yn47) *(WebStorm 6)*
+* [Less -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*
 
 ###技巧
 
@@ -126,8 +127,6 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [IntelliJ IDEA解决GBK乱码](http://nornor.net/Intellij-IDEA-gbk-fix.htm)
 * [对比文件/文件夹](http://blog.jetbrains.com/webide/2013/02/comparing-files-and-folders-within-your-ide/)
 * [Emmet/ZenCoding 快捷键](http://docs.emmet.io/cheat-sheet/)
-* [Less -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA)
-
 
 #Bug
 
