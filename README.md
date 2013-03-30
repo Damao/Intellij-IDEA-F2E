@@ -28,7 +28,9 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 
 这样的格式更有利于解决问题。
 
-避免无意义的讨论,如果对大部分人都无价值的话题,建议私聊
+避免无意义的讨论,例如美化比较主观,没有固定答案的问题都不能讨论
+
+如果对大部分人都无价值的话题,建议私聊
 
 149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
 
@@ -94,6 +96,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 右边那条线是啥? Settings>Appearance>Show right margin ; 这玩意儿格式化的时候控制换行区域,不用的话可以禁用
 * 关闭任意位置编辑（也称虚拟空格）？ Settings>Editor>Allow placement of caret after end of line
 * 界面中文乱码？Setting>Appearance>Override default fonts by ，下拉框中选“微软雅黑”，可能找不到微软雅黑，因为中文字体也乱码了，所以先选一个乱码名字的字体就可以找到了。
+* 显示多列/行文件? tag 上右键选择 Split vertically / Split horizontally
 
 
 ##教程
