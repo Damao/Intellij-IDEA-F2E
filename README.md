@@ -97,6 +97,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 关闭任意位置编辑（也称虚拟空格）？ Settings>Editor>Allow placement of caret after end of line
 * 界面中文乱码？Setting>Appearance>Override default fonts by ，下拉框中选“微软雅黑”，可能找不到微软雅黑，因为中文字体也乱码了，所以先选一个乱码名字的字体就可以找到了。
 * 显示多列/行文件? tag 上右键选择 Split vertically / Split horizontally
+* 全屏模式? 'View>Enter full screen'
 
 
 ##教程
@@ -137,6 +138,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡
 * markdown 插件会导致部分版本的 PHPStorm 无法进入软件设置,可以通过删除文件夹来拆卸插件
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
+* 拼音输入法吞字,请使用搜狗拼音
 
 ---
 
