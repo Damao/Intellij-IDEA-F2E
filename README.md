@@ -114,6 +114,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [IDEA 字体美化](http://willerce.com/post/intellij-ide-fontconfig)
 * [LESS 自动编译](http://www.screenr.com/yn47) *(WebStorm 6)*
 * [Less -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*
+* [使用Ant](http://www.cssha.com/webstorm)
 
 ###技巧
 
