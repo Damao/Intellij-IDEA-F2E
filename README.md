@@ -103,7 +103,6 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 ##教程
 
 ###基础设置
-*[Intellij IDEA中使用Ant进行前端构建](http://www.cssha.com/intellij-idea-ant)
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)
 * [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
 * [配置 Project](http://ooxx.me/intellij-idea-project.orz)
@@ -114,8 +113,8 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
 * [IDEA 字体美化](http://willerce.com/post/intellij-ide-fontconfig)
 * [LESS 自动编译](http://www.screenr.com/yn47) *(WebStorm 6)*
-* [Less -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*
-* [使用Ant](http://www.cssha.com/webstorm)
+* [LESS -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*
+* [Intellij IDEA中使用Ant进行前端构建](http://www.cssha.com/intellij-idea-ant)
 
 ###技巧
 
