@@ -141,6 +141,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 #Bug
 
+* 如果用 SVN 修改了中文文件名,那么会悲剧...
 * 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡(非必现)
 * markdown 插件会导致部分版本的 PHPStorm 无法进入软件设置,可以通过删除文件夹来拆卸插件(新版本已修复)
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
