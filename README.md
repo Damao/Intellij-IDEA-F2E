@@ -13,11 +13,13 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 切莫活在别人的世界里
 
 ##编辑器选择
-配置较差的同学推荐 PHPStrom , 因为前端开发的同学基本都会玩点 PHP, 所以不推荐 WebStorm
+WebStorm 针对前端开发集成了一些比较常用的例如node.js LESS之类,性能好速度快
 
-对于配置好,气质佳的同学,墙裂推荐 IntelliJ IDEA Ultimate, 功能全面,更新最快,性能最好,吃内存相对多
+PHPStorm 针对PHP也做了一些优化,并且包含了 WebStorm
 
-社区免费版阉割的略微有点过...自重
+IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 JAVA IDE, 功能强,速度慢,吃内存多
+
+我目前是同时装了 WebStorm 和 IntelliJ IDEA,反正配置通用,按需取用
 
 ##因特里基友QQ群(人多,严禁跑题,违者T)
 我在使用XX遇到了问题。
@@ -71,6 +73,8 @@ jar: `File > Import Settings`
 
 Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.com/mekwall/obsidian-color-scheme)
 
+[Sublime Text2 的配色转成 idea](https://github.com/JetBrains/colorSchemeTool) (感谢 ash)
+
 ###编辑器字体
 `Settings > Editor > Colors & Fonts > Font`
 
@@ -103,6 +107,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 ##教程
 
 ###基础设置
+* [WebStorm 入门指南](http://book.36ria.com/webstorm/)
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)
 * [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
 * [配置 Project](http://ooxx.me/intellij-idea-project.orz)
@@ -136,10 +141,11 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 #Bug
 
-* 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡
-* markdown 插件会导致部分版本的 PHPStorm 无法进入软件设置,可以通过删除文件夹来拆卸插件
+* 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡(非必现)
+* markdown 插件会导致部分版本的 PHPStorm 无法进入软件设置,可以通过删除文件夹来拆卸插件(新版本已修复)
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
 * 拼音输入法吞字,请使用搜狗拼音
+* 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和花刺翻译的勾选去掉(感谢阿安)
 
 ---
 
