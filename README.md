@@ -94,6 +94,8 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 ##FAQ
 
+* Windows 7 sometimes breaks FTP connections on Java 7 if firewall is enabled.Command netsh advfirewall set global StatefulFTP disable usually fixes [the problem](http://youtrack.jetbrains.com/issue/WI-17206).
+* 官方[《IDEA 30天速成》](http://blogs.jetbrains.com/idea/tag/30-days-guide/)
 * 常用快捷键? 'Help > Default Keymap reference'
 * 如何自动换行? 答:全局 `Settings > Editor > use soft wraps in editor` ; 当前文档 在行号的位置右键选择 use soft wraps
 * 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.
@@ -147,6 +149,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
 * 拼音输入法吞字,请使用搜狗拼音
 * 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和花刺翻译的勾选去掉(感谢阿安)
+* idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)
 
 ---
 
