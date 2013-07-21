@@ -19,7 +19,7 @@ PHPStorm 针对PHP也做了一些优化,并且包含了 WebStorm
 
 IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 JAVA IDE, 功能强,速度慢,吃内存多
 
-我目前是同时装了 WebStorm 和 IntelliJ IDEA,反正配置通用,按需取用
+我目前是同时装了 WebStorm 和 IntelliJ IDEA,反正配置通用,按需取用。
 
 ##因特里基友QQ群(人多,严禁跑题,违者T)
 我在使用XX遇到了问题。
@@ -78,11 +78,11 @@ Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.co
 ###编辑器字体
 `Settings > Editor > Colors & Fonts > Font`
 
-因为没法 GUI 界面中英文分开设置,简单的方法就是安装 Yahei Consolas hybrid 字体(群共享有)
-
 字号我这里 17px 英文相对清晰,你可以根据预览来微调
 
 IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒服滴
+
+[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz) 按照教程设置英文和中文2个字体，就可以分别爽了
 
 ##性能优化
 * 使用最新版
@@ -122,6 +122,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [LESS 自动编译](http://www.screenr.com/yn47) *(WebStorm 6)*
 * [LESS -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*
 * [Intellij IDEA中使用Ant进行前端构建](http://www.cssha.com/intellij-idea-ant)
+* [Intellij IDEA 视频专讲](http://www.youmeek.com/category/software-system/my-intellij-idea/)
 
 ###技巧
 
