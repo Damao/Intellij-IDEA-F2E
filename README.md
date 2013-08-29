@@ -30,13 +30,13 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 
 这样的格式更有利于解决问题。
 
-避免无意义的讨论,例如美化比较主观,没有固定答案的问题都不能讨论
+避免无意义的讨论,例如打招呼,例如美化比较主观,没有固定答案的问题都不能讨论
 
 如果对大部分人都无价值的话题,建议私聊
 
 149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
 
-群验证信息请包含关键字(IntelliJ IDEA)
+群验证信息请 **包含关键字** (IntelliJ IDEA)
 
 
 ##注册
@@ -47,7 +47,7 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 等你脚的 IntelliJ IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学
 
 ##促销
-[开源中国正版全系列3折](http://www.oschina.net/shop/jetbrains)
+[开源中国正版全系列7折](http://www.oschina.net/shop/jetbrains)
 
 
 ##编辑器界面
@@ -104,6 +104,8 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 界面中文乱码？Setting>Appearance>Override default fonts by ，下拉框中选“微软雅黑”，可能找不到微软雅黑，因为中文字体也乱码了，所以先选一个乱码名字的字体就可以找到了。
 * 显示多列/行文件? tag 上右键选择 Split vertically / Split horizontally
 * 全屏模式? 'View>Enter full screen'
+* 注释在行首而不是紧接着代码? Code Style > Java > Comment Code > Line comment at first column
+* Project侧边里不显示文件夹？ [因为没有 Module ](http://stackoverflow.com/questions/1147336/how-to-get-intellij-idea-to-display-directories)
 
 
 ##教程
@@ -144,11 +146,10 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 #Bug
 
+* 通过FTP方式同步会导致中文文件名乱码,推荐用SFTP
 * 如果用 SVN 修改了中文文件名,那么会悲剧...
-* 有同学反馈 BackgroundImage 插件会引起打开大JS的时候卡(非必现)
-* markdown 插件会导致部分版本的 PHPStorm 无法进入软件设置,可以通过删除文件夹来拆卸插件(新版本已修复)
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
-* 拼音输入法吞字,请使用搜狗拼音
+* win8 拼音输入法吞字,请使用[QQ拼音4.5](http://download.digi.tech.qq.com/soft/34/38/43255/index.shtml)
 * 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和花刺翻译的勾选去掉(感谢阿安)
 * idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)
 
