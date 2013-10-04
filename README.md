@@ -82,7 +82,7 @@ Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.co
 
 IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒服滴
 
-[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz) 按照教程设置英文和中文2个字体，就可以分别爽了
+[IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz) 按照教程设置英文和中文2个字体，就可以分别爽了
 
 ##性能优化
 * 使用最新版
@@ -98,7 +98,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 官方[《IDEA 30天速成》](http://blogs.jetbrains.com/idea/tag/30-days-guide/)
 * 常用快捷键? 'Help > Default Keymap reference'
 * 如何自动换行? 答:全局 `Settings > Editor > use soft wraps in editor` ; 当前文档 在行号的位置右键选择 use soft wraps
-* 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.
+* 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://bigc.at/intellij-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.
 * 右边那条线是啥? Settings>Appearance>Show right margin ; 这玩意儿格式化的时候控制换行区域,不用的话可以禁用
 * 关闭任意位置编辑（也称虚拟空格）？ Settings>Editor>Allow placement of caret after end of line
 * 界面中文乱码？Setting>Appearance>Override default fonts by ，下拉框中选“微软雅黑”，可能找不到微软雅黑，因为中文字体也乱码了，所以先选一个乱码名字的字体就可以找到了。
@@ -113,10 +113,10 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 ###基础设置
 * [WebStorm 入门指南](http://book.36ria.com/webstorm/)
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)
-* [PHP 支持](http://ooxx.me/intellij-idea-php.orz)
-* [配置 Project](http://ooxx.me/intellij-idea-project.orz)
-* [Appearance](http://ooxx.me/intellij-idea-appearance.orz)
-* [IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
+* [PHP 支持](http://bigc.at/intellij-idea-php.orz)
+* [配置 Project](http://bigc.at/intellij-idea-project.orz)
+* [Appearance](http://bigc.at/intellij-idea-appearance.orz)
+* [IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz)
 * [实现 remote host 远程开发](http://www.cssha.com/webstorm-phpstorm-remote-host)
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
 * [IDEA 配置同步](http://willerce.com/post/intellij-idea-config-sync)
@@ -125,20 +125,21 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [LESS -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*
 * [Intellij IDEA中使用Ant进行前端构建](http://www.cssha.com/intellij-idea-ant)
 * [Intellij IDEA 视频专讲](http://www.youmeek.com/category/software-system/my-intellij-idea/)
+* [PhoneGap 3.0 与 IntelliJ IDEA 环境配置教程](http://bigc.at/phonegap-3-intellij-idea.orz)
 
 ###技巧
 
 * [安装后的一些设置技巧](http://www.cnblogs.com/sky100/archive/2009/01/22/1379949.html)
-* [插件 QuickJump](http://ooxx.me/intellij-idea-quickjump.orz)
-* [Local History](http://ooxx.me/intellij-idea-local-history.orz)
-* [Live Template](http://ooxx.me/intellij-idea-live-template.orz)
-* [Task](http://ooxx.me/intellij-idea-task.orz)
-* [File Path](http://ooxx.me/intellij-idea-file-path.orz)
-* [Surround / unwrap](http://ooxx.me/intellij-idea-surround-unwrap.orz)
-* [Refactor 重构](http://ooxx.me/intellij-idea-refactor.orz)
-* [LiveEdit Plugin](http://ooxx.me/intellij-idea-liveedit-plugin.orz)
+* [插件 QuickJump](http://bigc.at/intellij-idea-quickjump.orz)
+* [Local History](http://bigc.at/intellij-idea-local-history.orz)
+* [Live Template](http://bigc.at/intellij-idea-live-template.orz)
+* [Task](http://bigc.at/intellij-idea-task.orz)
+* [File Path](http://bigc.at/intellij-idea-file-path.orz)
+* [Surround / unwrap](http://bigc.at/intellij-idea-surround-unwrap.orz)
+* [Refactor 重构](http://bigc.at/intellij-idea-refactor.orz)
+* [LiveEdit Plugin](http://bigc.at/intellij-idea-liveedit-plugin.orz)
 * [WebStorm 使用外部工具](http://willerce.com/post/intellij-external-tools)
-* [Yabo(鸭脖) - CSS 压缩合并工具](http://ooxx.me/yabo.orz)
+* [Yabo(鸭脖) - CSS 压缩合并工具](http://bigc.at/yabo.orz)
 * [IntelliJ IDEA解决GBK乱码](http://nornor.net/Intellij-IDEA-gbk-fix.htm)
 * [对比文件/文件夹](http://blog.jetbrains.com/webide/2013/02/comparing-files-and-folders-within-your-ide/)
 * [Emmet/ZenCoding 快捷键](http://docs.emmet.io/cheat-sheet/)
@@ -146,10 +147,12 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 
 #Bug
 
+* SVN 1.8 的支持要到13版本才行 [IDEA-94942](http://youtrack.jetbrains.com/issue/IDEA-94942)
 * 通过FTP方式同步会导致中文文件名乱码,推荐用SFTP
 * 如果用 SVN 修改了中文文件名,那么会悲剧...
-* 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://ooxx.me/intellij-idea-font-famliy.orz)
+* 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz)
 * win8 拼音输入法吞字,请使用[QQ拼音4.5](http://download.digi.tech.qq.com/soft/34/38/43255/index.shtml)
+要么用QQ拼音4.6的设置里高级关掉英文词语联想
 * 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和花刺翻译的勾选去掉(感谢阿安)
 * idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)
 
