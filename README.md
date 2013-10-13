@@ -144,6 +144,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [对比文件/文件夹](http://blog.jetbrains.com/webide/2013/02/comparing-files-and-folders-within-your-ide/)
 * [Emmet/ZenCoding 快捷键](http://docs.emmet.io/cheat-sheet/)
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)
+* [缩进, Tab 还是空格?](http://bigc.at/tabs-vs-spaces.orz)
 
 #Bug
 
