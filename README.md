@@ -69,7 +69,7 @@ jar: `File > Import Settings`
 
 比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight) ，[Obsidian](https://github.com/mekwall/obsidian-color-scheme 'A dark color scheme for code editors and highlighters')
 
-比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/)
+比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/) [PHPStorm Themes](http://www.phpstorm-themes.com/)
 
 Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.com/mekwall/obsidian-color-scheme)
 
