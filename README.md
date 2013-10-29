@@ -155,7 +155,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz)
 * win8 拼音输入法吞字,请使用[QQ拼音4.5](http://download.digi.tech.qq.com/soft/34/38/43255/index.shtml)
 要么用QQ拼音4.6的设置里高级关掉英文词语联想
-* 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和花刺翻译的勾选去掉(感谢阿安)
+* 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和划词翻译的勾选去掉(感谢阿安)
 * idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)
 
 ---
