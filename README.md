@@ -157,6 +157,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 要么用QQ拼音4.6的设置里高级关掉英文词语联想
 * 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和划词翻译的勾选去掉(感谢阿安)
 * idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)
+* [IDEA下tomcat启动报错解决](https://github.com/Damao/Intellij-IDEA-F2E/wiki/IDEA-%E4%B8%8B%E5%90%AF%E5%8A%A8tomcat%E6%8A%A5%E9%94%99/e20d58f79dd729ea4606a21a67b1d02f6a094893)
 
 ---
 
