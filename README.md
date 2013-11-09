@@ -34,7 +34,9 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 
 如果对大部分人都无价值的话题,建议私聊
 
-149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
+群号：149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
+
+群号：244908708 (偏后端)
 
 群验证信息请 **包含关键字** (IntelliJ IDEA)
 
