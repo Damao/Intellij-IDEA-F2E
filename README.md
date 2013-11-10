@@ -22,16 +22,15 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 我目前是同时装了 WebStorm 和 IntelliJ IDEA,反正配置通用,按需取用。
 
 ##因特里基友QQ群(人多,严禁跑题,违者T)
+
 我在使用XX遇到了问题。
-
 我已经尝试过XXX方法。
-
 现在问题的具体表现、信息为XXXXXX。
-
 这样的格式更有利于解决问题。
 
-避免无意义的讨论,例如打招呼,例如美化比较主观,没有固定答案的问题都不能讨论
+附赠:[群提问方式说明](http://www.youmeek.com/forward-china-best-conversation-group-about-intellij-idea/)
 
+避免无意义的讨论,例如打招呼,例如美化比较主观,没有固定答案的问题都不能讨论
 如果对大部分人都无价值的话题,建议私聊
 
 149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
