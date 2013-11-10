@@ -33,7 +33,9 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 避免无意义的讨论,例如打招呼,例如美化比较主观,没有固定答案的问题都不能讨论
 如果对大部分人都无价值的话题,建议私聊
 
-149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
+群号：149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
+
+群号：244908708 (偏后端)
 
 群验证信息请 **包含关键字** (IntelliJ IDEA)
 
@@ -155,7 +157,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * win8 拼音输入法吞字,请使用[QQ拼音4.5](http://download.digi.tech.qq.com/soft/34/38/43255/index.shtml)要么用QQ拼音4.6的设置里高级关掉英文词语联想
 * 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和划词翻译的勾选去掉(感谢阿安)
 * idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)；如果这样还不能解决，请参考 [idea12 server log中文乱码解决方法](http://www.kafeitu.me/tools/2013/03/26/intellij-deal-chinese-disorderly-code.html)
-* [IDEA下tomcat启动报错解决](git@github.com:novawoo/Intellij-IDEA-F2E.wiki.git)
+* [IDEA下tomcat启动报错解决](https://github.com/Damao/Intellij-IDEA-F2E/wiki/IDEA-%E4%B8%8B%E5%90%AF%E5%8A%A8tomcat%E6%8A%A5%E9%94%99)
 
 ---
 
