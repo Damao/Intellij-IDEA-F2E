@@ -3,22 +3,15 @@
 **[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStrom](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**
 
 常规文本编辑器之于IDE(集成开发环境), 好比 Markdown 之于 HTML
-
 Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
-
 这件事情告诉我们, 高帅富配白富美, 屌丝配右手
-
 最适合你的编辑器,就是世界上最好的编辑器
-
 切莫活在别人的世界里
 
 ##编辑器选择
 WebStorm 针对前端开发集成了一些比较常用的例如node.js LESS之类,性能好速度快
-
 PHPStorm 针对PHP也做了一些优化,并且包含了 WebStorm
-
 IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 JAVA IDE, 功能强,速度慢,吃内存多
-
 我目前是同时装了 WebStorm 和 IntelliJ IDEA,反正配置通用,按需取用。
 
 ##因特里基友QQ群(人多,严禁跑题,违者T)
@@ -28,13 +21,12 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 现在问题的具体表现、信息为XXXXXX。
 这样的格式更有利于解决问题。
 
-附赠:[群提问方式说明](http://www.youmeek.com/forward-china-best-conversation-group-about-intellij-idea/)
+附赠:[提问的智慧](http://www.wapm.cn/smart-questions/smart-questions-zh.html)
 
-避免无意义的讨论,例如打招呼,例如美化比较主观,没有固定答案的问题都不能讨论
-如果对大部分人都无价值的话题,建议私聊
+避免无意义的讨论,例如`打招呼`,例如`美化`比较主观,没有固定答案的问题都不能讨论
+如果对大部分人都无价值的话题,建议`私聊`
 
 群号：149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
-
 群号：244908708 (偏后端)
 
 群验证信息请 **包含小写有空格的关键字** `intellij idea`
@@ -42,14 +34,11 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 
 ##注册
 在群共享里有了.
-
 所有大版本序列号都是通用的
-
 等你脚的 IntelliJ IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学
 
 ##促销
 [开源中国正版全系列7折](http://www.oschina.net/shop/jetbrains)
-
 
 ##编辑器界面
 `Settings > Appearance > Look and Feel`,
@@ -57,7 +46,6 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 
 ##配色
 妹纸到手,第一步就是扒光
-
 IntelliJ IDEA 的配色是 xml 或 jar 文件
 
 xml:
@@ -78,11 +66,8 @@ Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.co
 
 ###编辑器字体
 `Settings > Editor > Colors & Fonts > Font`
-
 字号我这里 17px 英文相对清晰,你可以根据预览来微调
-
 IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒服滴
-
 [IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz) 按照教程设置英文和中文2个字体，就可以分别爽了
 
 ##性能优化
@@ -151,10 +136,9 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 #Bug
 
 * SVN 1.8 的支持要到13版本才行 [IDEA-94942](http://youtrack.jetbrains.com/issue/IDEA-94942)
-* 通过FTP方式同步会导致中文文件名乱码,推荐用SFTP
-* 如果用 SVN 修改了中文文件名,那么会悲剧...
+* 如果通过FTP方式同步会导致中文文件名乱码,推荐用SFTP
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz)
-* win8 拼音输入法吞字,请使用[QQ拼音4.5](http://download.digi.tech.qq.com/soft/34/38/43255/index.shtml)要么用QQ拼音4.6的设置里高级关掉英文词语联想
+* win8 拼音输入法吞字,请使用[QQ拼音4.5](http://download.digi.tech.qq.com/soft/34/38/43255/index.shtml)要么用QQ拼音4.6的设置里高级关掉英文词语联想,或者安装第三方JDK如[Oracle JRockit](http://www.oracle.com/technology/products/jrockit)
 * 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和划词翻译的勾选去掉(感谢阿安)
 * idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)；如果这样还不能解决，请参考 [idea12 server log中文乱码解决方法](http://www.kafeitu.me/tools/2013/03/26/intellij-deal-chinese-disorderly-code.html)
 * [IDEA下tomcat启动报错解决](https://github.com/Damao/Intellij-IDEA-F2E/wiki/IDEA-%E4%B8%8B%E5%90%AF%E5%8A%A8tomcat%E6%8A%A5%E9%94%99)
