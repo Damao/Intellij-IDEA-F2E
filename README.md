@@ -1,3 +1,7 @@
+#置顶
+[IntelliJ IDEA 13 key](https://sskaje.me/sskaje/keygen/)
+先点取消后点确定(感谢 HLOY SKY5)
+
 #IntelliJ-IDEA-F2E
 
 **[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStrom](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**
