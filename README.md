@@ -33,7 +33,7 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 群号：149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)
 群号：244908708 (偏后端)
 
-群验证信息请 **包含小写有空格的关键字** `intellij idea`
+入群问题答案请 **包含小写有空格的关键字** `intellij idea`
 
 
 ##注册
