@@ -75,7 +75,8 @@ Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.co
 IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒服滴  
 [IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz) 按照教程设置英文和中文2个字体，就可以分别爽了  
   
-##性能优化  
+##性能优化
+* 如果有杀毒软件,请排除掉项目路径
 * 使用最新版  
 * 关闭不认识的插件  
 * Project 下的文件不要太多,否则会有大量的 I/O  
