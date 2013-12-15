@@ -50,17 +50,18 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
   
 ##配色  
 妹纸到手,第一步就是扒光  
-IntelliJ IDEA 的配色是 xml 或 jar 文件  
+IntelliJ IDEA 的配色是 icls 或 jar 文件
+可能还有些xml的丢到目录里会自动转换为 icls 文件
   
-xml:  
+icls:
   
-* for Mac OS, ~/Library/Preferences/IntelliJIDEA10CE/colors/  
-* for Linux, ~/.IntelliJIDEA10CE/config/colors/  
-* for Windows, C:\Documents and Settings\user\.IntelliJIDEA10CE\config\colors  
+* for Mac OS, ~/Library/Preferences/IntelliJIdea13/colors/
+* for Linux, ~/.IntelliJIdea13/config/colors/
+* for Windows, C:\Documents and Settings\user\.IntelliJIdea13\config\colors
   
 jar: `File > Import Settings`  
   
-比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight) ，[Obsidian](https://github.com/mekwall/obsidian-color-scheme 'A dark color scheme for code editors and highlighters')  
+比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight) , [Obsidian](https://github.com/mekwall/obsidian-color-scheme 'A dark color scheme for code editors and highlighters'), [Tomorrow](https://github.com/chriskempson/tomorrow-theme/tree/master/Jetbrains)
   
 比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/) [PHPStorm Themes](http://www.phpstorm-themes.com/)  
   
