@@ -103,7 +103,6 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
   
 ###基础设置  
 * [常用快捷键](http://note.youdao.com/share/?id=973d61880d78c34797a978afc5bc8846&type=note)  
-* [WebStorm 入门指南](http://book.36ria.com/webstorm/)  
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)  
 * [PHP 支持](http://bigc.at/intellij-idea-php.orz)  
 * [配置 Project](http://bigc.at/intellij-idea-project.orz)  
