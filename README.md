@@ -1,8 +1,4 @@
-#置顶  
-[IntelliJ IDEA 13 key](https://sskaje.me/sskaje/keygen/)  
-先点取消后点确定(感谢 HLOY SKY5)  
-  
-#IntelliJ-IDEA-F2E  
+#IntelliJ-IDEA-F2E
   
 **[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStrom](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**  
   
@@ -37,7 +33,8 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
   
   
 ##注册  
-在群共享里有了.  
+在群共享里有jar包.
+下载后运行 java -jar IntelliJIDEAKeyGen.jar
 所有大版本序列号都是通用的  
 等你脚的 IntelliJ IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学  
   
@@ -50,17 +47,18 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
   
 ##配色  
 妹纸到手,第一步就是扒光  
-IntelliJ IDEA 的配色是 xml 或 jar 文件  
+IntelliJ IDEA 的配色是 icls 或 jar 文件
+可能还有些xml的丢到目录里会自动转换为 icls 文件
   
-xml:  
+icls:
   
-* for Mac OS, ~/Library/Preferences/IntelliJIDEA10CE/colors/  
-* for Linux, ~/.IntelliJIDEA10CE/config/colors/  
-* for Windows, C:\Documents and Settings\user\.IntelliJIDEA10CE\config\colors  
+* for Mac OS, ~/Library/Preferences/IntelliJIdea13/colors/
+* for Linux, ~/.IntelliJIdea13/config/colors/
+* for Windows, C:\Documents and Settings\user\.IntelliJIdea13\config\colors
   
 jar: `File > Import Settings`  
   
-比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight) ，[Obsidian](https://github.com/mekwall/obsidian-color-scheme 'A dark color scheme for code editors and highlighters')  
+比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight) , [Obsidian](https://github.com/mekwall/obsidian-color-scheme 'A dark color scheme for code editors and highlighters'), [Tomorrow](https://github.com/chriskempson/tomorrow-theme/tree/master/Jetbrains)
   
 比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/) [PHPStorm Themes](http://www.phpstorm-themes.com/)  
   
@@ -74,7 +72,8 @@ Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.co
 IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒服滴  
 [IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz) 按照教程设置英文和中文2个字体，就可以分别爽了  
   
-##性能优化  
+##性能优化
+* 如果有杀毒软件,请排除掉项目路径
 * 使用最新版  
 * 关闭不认识的插件  
 * Project 下的文件不要太多,否则会有大量的 I/O  
@@ -116,7 +115,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [LESS -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*  
 * [Intellij IDEA中使用Ant进行前端构建](http://www.cssha.com/intellij-idea-ant)  
 * [Intellij IDEA 视频专讲](http://www.youmeek.com/category/software-system/my-intellij-idea/)  
-* [PhoneGap 3.0 与 IntelliJ IDEA 环境配置教程](http://bigc.at/phonegap-3-intellij-idea.orz)  
+* [如何在 IntelliJ IDEA 里配置 PhoneGap 3.3](http://bigc.at/phonegap-with-intellij-idea.orz)  
   
 ###技巧  
   
