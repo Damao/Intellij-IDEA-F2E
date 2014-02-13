@@ -1,6 +1,6 @@
 #IntelliJ-IDEA-F2E
   
-**[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStrom](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**  
+**[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStorm](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**  
   
 常规文本编辑器之于IDE(集成开发环境), 好比 Markdown 之于 HTML  
 Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML  
