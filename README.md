@@ -33,8 +33,6 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
   
   
 ##注册  
-在群共享里有jar包.
-下载后运行 java -jar IntelliJIDEAKeyGen.jar
 所有大版本序列号都是通用的  
 等你脚的 IntelliJ IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学  
   
