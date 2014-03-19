@@ -1,6 +1,6 @@
 #IntelliJ-IDEA-F2E
   
-**[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStrom](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**  
+**[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStorm](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**  
   
 常规文本编辑器之于IDE(集成开发环境), 好比 Markdown 之于 HTML  
 Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML  
@@ -139,7 +139,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * SVN 1.8 的支持要到13版本才行 [IDEA-94942](http://youtrack.jetbrains.com/issue/IDEA-94942)  
 * 如果通过FTP方式同步会导致中文文件名乱码,推荐用SFTP  
 * 英文字体会导致中文显示成口口口,[IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz)  
-* win8 拼音输入法吞字,请使用[QQ拼音4.5](http://download.digi.tech.qq.com/soft/34/38/43255/index.shtml)要么用QQ拼音4.6的设置里高级关掉英文词语联想,或者安装第三方JDK如[Oracle JRockit](http://www.oracle.com/technology/products/jrockit)  
+* win8 拼音输入法吞字,请使用[QQ拼音4.5](http://pan.baidu.com/s/1vL2sn)提取密码：a4k3，要么用QQ拼音4.6的设置里高级关掉英文词语联想,或者安装第三方JDK如[Oracle JRockit](http://www.oracle.com/technology/products/jrockit)  
 * 拖动滚动条浏览代码，松开鼠标，会自动滚回光标的位置，在哪里设置？有道词典的屏幕取词和划词翻译的勾选去掉(感谢阿安)  
 * idea12 server log中文乱码的问题，解决办法是修改idea/bin目录下的idea.exe.vmoptions文件，增加配置-Dfile.encoding=UTF-8 (感谢匆匆过客)；如果这样还不能解决，请参考 [idea12 server log中文乱码解决方法](http://www.kafeitu.me/tools/2013/03/26/intellij-deal-chinese-disorderly-code.html)  
 * [IDEA下tomcat启动报错解决](https://github.com/Damao/Intellij-IDEA-F2E/wiki/IDEA-%E4%B8%8B%E5%90%AF%E5%8A%A8tomcat%E6%8A%A5%E9%94%99)  
