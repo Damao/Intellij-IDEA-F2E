@@ -94,8 +94,9 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 全屏模式? 'View>Enter full screen'  
 * 注释在行首而不是紧接着代码? Code Style > Java > Comment Code > Line comment at first column  
 * Project侧边里不显示文件夹？ [因为没有 Module ](http://stackoverflow.com/questions/1147336/how-to-get-intellij-idea-to-display-directories)  
+* 群相册IntelliJ IDEA技巧图片打包下载 [百度云](http://pan.baidu.com/s/1nt9GmdN)  
   
-  
+
 ##教程  
   
 ###基础设置  
