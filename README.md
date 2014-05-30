@@ -24,10 +24,15 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 附赠:[提问的智慧](http://www.wapm.cn/smart-questions/smart-questions-zh.html)  
   
 避免无意义的讨论,例如`打招呼`,例如`美化`比较主观,没有固定答案的问题都不能讨论  
-如果对大部分人都无价值的话题,建议`私聊`  
-  
-群号：149725975 (CSS/HTML/JavaScript/PHP IntelliJ IDE/PHPStorm/WebStorm)  
-群号：244908708 (偏后端)  
+如果对大部分人都无价值的话题,建议`私聊`
+'发无关话题'直接踢不提示不警告
+'跟无关话题'直接踢不提示不警告
+'纯表情'直接踢不提示不警告
+如被踢,'不再接受'重新加群
+
+
+群号：149725975 (前端 CSS/HTML/JavaScript/PHP)
+群号：244908708 (后端 JAVA/TomCat)
   
 入群问题答案请 **包含小写有空格的关键字** `intellij idea`  
   
@@ -36,8 +41,9 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 所有大版本序列号都是通用的  
 等你脚的 IntelliJ IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学  
   
-##促销  
-[开源中国正版全系列7折](http://www.oschina.net/shop/jetbrains)  
+##促销
+[开源中国正版全系列折扣](http://www.oschina.net/shop/jetbrains)
+或联系大猫更低折扣
   
 ##编辑器界面  
 `Settings > Appearance > Look and Feel`,  
