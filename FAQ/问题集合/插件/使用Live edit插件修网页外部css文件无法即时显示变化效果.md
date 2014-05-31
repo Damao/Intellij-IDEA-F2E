@@ -5,7 +5,7 @@
 * **工具名称**：IntelliJ IDEA
 * **工具版本**：13.1.6
 * **操作系统**：windows 7
-* **JDK版本**：JDK 1.7
+
 
 * **问题描述**：
 >在intellij IDEA中使用live edit插件修改网页文件的连接的外部css文件代码时，
@@ -15,7 +15,7 @@
 * **引起问题的原因**；
 >问题源于chromium的一次更新
 >详情请看 http://src.chromium.org/viewvc/blink/trunk/Source/devtools/protocol.json?revision=166228
->一下是官方的live edit讨论区对于这个问题的谈论，第一条评论指出的问题所在
+>以下是官方的live edit讨论区对于这个问题的谈论，第一条评论指出的问题所在。
 > 讨论区连接： http://youtrack.jetbrains.com/issue/WEB-11393#comment=27-722471
 
 
@@ -34,5 +34,5 @@
 
 ---
 
-* **作者**：Genji [新浪微博]（http://weibo.com/u/1612465254）
+* **作者**：Genji [新浪微博](http://weibo.com/u/1612465254 "个人微博")
 * **时间**：2014年5月31日 17：26：05
