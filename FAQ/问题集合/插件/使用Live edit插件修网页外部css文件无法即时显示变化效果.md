@@ -14,9 +14,9 @@
 
 * **引起问题的原因**；
 >问题源于chromium的一次更新
- 详情请看 http://src.chromium.org/viewvc/blink/trunk/Source/devtools/protocol.json?revision=166228
->以下是官方的live edit讨论区对于这个问题的谈论，第一条评论指出的问题所在。
- 讨论区连接： http://youtrack.jetbrains.com/issue/WEB-11393#comment=27-722471
+详情请看 http://src.chromium.org/viewvc/blink/trunk/Source/devtools/protocol.json?revision=166228
+以下是官方的live edit讨论区对于这个问题的谈论，第一条评论指出的问题所在。
+讨论区连接： http://youtrack.jetbrains.com/issue/WEB-11393#comment=27-722471
 
 
 
