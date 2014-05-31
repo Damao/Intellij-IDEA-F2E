@@ -1,4 +1,4 @@
-#使用Live edit插件修网页外部css文件无法即时显示变化效果
+#使用Live edit插件修网页外部css文件时在chrome中无法显示变化效果
 
 ---
 
@@ -9,12 +9,12 @@
 
 * **问题描述**：
 >在intellij IDEA中使用live edit插件修改网页文件的连接的外部css文件代码时，
-在chrome浏览器中网页样色没有反正变化。修改内部css跟行内css的代码时正常显示变化。
+在chrome浏览器中网页样色没有发生变化。修改内部css跟行内css的代码时正常显示变化。
 
 
 * **引起问题的原因**；
->问题源于chromium的一次更新,详情请看 http://src.chromium.org/viewvc/blink/trunk/Source/devtools/protocol.json?revision=166228
-以下是官方的live edit讨论区对于这个问题的谈论，第一条评论指出的问题所在。 http://youtrack.jetbrains.com/issue/WEB-11393#comment=27-722471
+>问题源于chromium的一次更新,详情请看 >http://src.chromium.org/viewvc/blink/trunk/Source/devtools/protocol.json?revision=166228
+>以下是官方的live edit讨论区对于这个问题的谈论，第一条评论指出的问题所在。 >http://youtrack.jetbrains.com/issue/WEB-11393#comment=27-722471
 
 
 
