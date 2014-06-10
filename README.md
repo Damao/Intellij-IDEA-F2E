@@ -31,8 +31,8 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 如被踢,`不再接受`重新加群  
 
 
-群号：149725975 (前端 CSS/HTML/JavaScript/PHP)  
-群号：244908708 (后端 JAVA/TomCat)
+群号：149725975 (前端 CSS/HTML/JavaScript/PHP) 踢人不提示不警告
+群号：244908708 (后端 JAVA/TomCat/JSP/Android) 每周五开放加群
   
 入群问题答案请 **包含小写有空格的关键字** `intellij idea`  
   
