@@ -92,7 +92,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 官方[《IDEA 30天速成》](http://blogs.jetbrains.com/idea/tag/30-days-guide/)  
 * 常用快捷键? 'Help > Default Keymap reference'  
 * 如何自动换行? 答:全局 `Settings > Editor > use soft wraps in editor` ; 当前文档 在行号的位置右键选择 use soft wraps  
-* 有木有 ST2 那种同时选中多个区域? 答:木有,我们一般用[Refactor 重构](http://bigc.at/intellij-idea-refactor.orz)(Shift + F6),列编辑(Alt + 拖动),批量替换(Ctrl + r) 来实现.  
+* 有木有 ST2 那种同时选中多个区域? 答:必须有,<http://www.jetbrains.com/idea/whatsnew/img/13/ij131_multiple_selections.gif>.  
 * 右边那条线是啥? Settings>Appearance>Show right margin ; 这玩意儿格式化的时候控制换行区域,不用的话可以禁用  
 * 关闭任意位置编辑（也称虚拟空格）？ Settings>Editor>Allow placement of caret after end of line  
 * 界面中文乱码？Setting>Appearance>Override default fonts by ，下拉框中选“微软雅黑”，可能找不到微软雅黑，因为中文字体也乱码了，所以先选一个乱码名字的字体就可以找到了。  
