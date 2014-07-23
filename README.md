@@ -21,7 +21,7 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 现在问题的具体表现、信息为XXXXXX。  
 这样的格式更有利于解决问题。  
   
-附赠:[提问的智慧](http://www.wapm.cn/smart-questions/smart-questions-zh.html)  
+附赠:[提问的智慧](http://www.beiww.com/doc/oss/smart-questions.html)  
   
 避免无意义的讨论,例如`打招呼`,例如`美化`比较主观,没有固定答案的问题都不能讨论  
 如果对大部分人都无价值的话题,建议`私聊`  
