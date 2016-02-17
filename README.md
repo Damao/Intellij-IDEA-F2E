@@ -119,8 +119,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [IDEA 字体美化](http://willerce.com/post/intellij-ide-fontconfig)  
 * [LESS 自动编译](http://www.screenr.com/yn47) *(WebStorm 6)*  
 * [LESS -> CSS编译支持](https://github.com/damao/Intellij-IDEA-F2E/wiki/Compile-Less-to-CSS-with--IntelliJ-IDEA) *(IDEA 12)*  
-* [Intellij IDEA中使用Ant进行前端构建](http://www.cssha.com/intellij-idea-ant)  
-* [Intellij IDEA 视频专讲](http://www.youmeek.com/category/software-system/my-intellij-idea/)  
+* [Intellij IDEA 视频专讲](http://www.youmeek.com/category/software-system/my-intellij-idea/)
 * [如何在 IntelliJ IDEA 里配置 PhoneGap 3.3](http://bigc.at/phonegap-with-intellij-idea.orz)  
   
 ###技巧  
