@@ -31,7 +31,7 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 如被踢,`不再接受`重新加群  
 
 
-群号：149725975 (前端 CSS/HTML/JavaScript/PHP) 踢人不提示不警告  
+群号：149725975 (前端 CSS/HTML/JavaScript/PHP) 已经停止加人
 群号：244908708 (后端 JAVA/TomCat/JSP/Android) 每周五开放加群  
   
 入前端群问题答案 **保证仅讨论前端编辑器**  
@@ -63,8 +63,10 @@ icls:
   
 jar: `File > Import Settings`  
   
+比较时尚的有 [Material Theme UI](https://github.com/ChrisRM/material-theme-jetbrains#installation)
+
 比较常用的有 [intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) , [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight) , [Obsidian](https://github.com/mekwall/obsidian-color-scheme 'A dark color scheme for code editors and highlighters'), [Tomorrow](https://github.com/chriskempson/tomorrow-theme/tree/master/Jetbrains)
-  
+
 比较全面的有 [Idea Color Schemes](http://ideacolorschemes.com/) [PHPStorm Themes](http://www.phpstorm-themes.com/)  
   
 Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.com/mekwall/obsidian-color-scheme)  
