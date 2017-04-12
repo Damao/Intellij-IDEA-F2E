@@ -1,4 +1,4 @@
-#IntelliJ-IDEA-F2E
+# IntelliJ-IDEA-F2E
   
 **[IntelliJ IDEA](http://www.jetbrains.com/idea), [PHPStorm](http://www.jetbrains.com/phpstorm), [WebStorm](http://www.jetbrains.com/webstorm) 前端开发指南.**  
   
@@ -8,13 +8,13 @@ Markdown 杀鸡嗷嗷叫, 但做网站必须得 HTML
 最适合你的编辑器,就是世界上最好的编辑器  
 切莫活在别人的世界里  
   
-##编辑器选择  
+## 编辑器选择  
 WebStorm 针对前端开发集成了一些比较常用的例如node.js LESS之类,性能好速度快  
 PHPStorm 针对PHP也做了一些优化,并且包含了 WebStorm  
 IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 JAVA IDE, 功能强,速度慢,吃内存多  
 我目前是同时装了 WebStorm 和 IntelliJ IDEA,反正配置通用,按需取用。  
   
-##因特里基友QQ群(人多,严禁跑题,违者T)  
+## 因特里基友QQ群(人多,严禁跑题,违者T)  
   
 我在使用XX遇到了问题。  
 我已经尝试过XXX方法。  
@@ -38,19 +38,19 @@ IntelliJ IDEA 则通过插件形式集成上面两者的功能,并且是主力 J
 入后端群问题答案 **intellij idea**  
   
   
-##注册  
+## 注册  
 所有大版本序列号都是通用的  
 等你脚的 IntelliJ IDEA 帮你赚钱了,记得购买正版授权,或者传递真爱给身边的同学  
   
-##促销
+## 促销
 [开源中国正版全系列折扣](http://www.oschina.net/shop/jetbrains)
 或联系大猫更低折扣
   
-##编辑器界面  
+## 编辑器界面  
 `Settings > Appearance > Look and Feel`,  
 黑色的到 IntelliJ IDEA 12 才有,叫 Darcula  
   
-##配色  
+## 配色  
 妹纸到手,第一步就是扒光  
 IntelliJ IDEA 的配色是 icls 或 jar 文件
 可能还有些xml的丢到目录里会自动转换为 icls 文件
@@ -73,13 +73,13 @@ Sublime Text2 转过来的同学还有 [Obsidian Color Scheme](https://github.co
   
 [Sublime Text2 的配色转成 idea](https://github.com/JetBrains/colorSchemeTool) (感谢 ash)  
   
-###编辑器字体  
+### 编辑器字体  
 `Settings > Editor > Colors & Fonts > Font`  
 字号我这里 17px 英文相对清晰,你可以根据预览来微调  
 IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒服滴  
 [IntelliJ IDEA 中文乱码,字体优化解决之道](http://bigc.at/intellij-idea-font-famliy.orz) 按照教程设置英文和中文2个字体，就可以分别爽了  
   
-##性能优化
+## 性能优化
 * 如果有杀毒软件,请排除掉项目路径
 * 使用最新版  
 * 关闭不认识的插件  
@@ -89,7 +89,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 升级硬件, SSD 神马的  
   
   
-##FAQ  
+## FAQ  
   
 * Windows 7 sometimes breaks FTP connections on Java 7 if firewall is enabled.Command netsh advfirewall set global StatefulFTP disable usually fixes [the problem](http://youtrack.jetbrains.com/issue/WI-17206).  
 * 官方[《IDEA 30天速成》](http://blogs.jetbrains.com/idea/tag/30-days-guide/)  
@@ -106,9 +106,9 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 群相册IntelliJ IDEA技巧图片打包下载 [百度云](http://pan.baidu.com/s/1nt9GmdN)  
   
 
-##教程  
+## 教程  
   
-###基础设置  
+### 基础设置  
 * [常用快捷键](http://note.youdao.com/share/?id=973d61880d78c34797a978afc5bc8846&type=note)  
 * [Java Development Kit(JDK)下载及环境设置](http://willerce.com/post/jdk)  
 * [PHP 支持](http://bigc.at/intellij-idea-php.orz)  
@@ -124,7 +124,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [Intellij IDEA 视频专讲](http://www.youmeek.com/category/software-system/my-intellij-idea/)
 * [如何在 IntelliJ IDEA 里配置 PhoneGap 3.3](http://bigc.at/phonegap-with-intellij-idea.orz)  
   
-###技巧  
+### 技巧  
   
 * [安装后的一些设置技巧](http://www.cnblogs.com/sky100/archive/2009/01/22/1379949.html)  
 * [插件 QuickJump](http://bigc.at/intellij-idea-quickjump.orz)  
@@ -143,7 +143,7 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * [WebStorm：令人眼前一亮的一款前端开发IDE](http://www.cssha.com/webstorm)  
 * [缩进, Tab 还是空格?](http://bigc.at/tabs-vs-spaces.orz)  
   
-#Bug  
+# Bug  
   
 * SVN 1.8 的支持要到13版本才行 [IDEA-94942](http://youtrack.jetbrains.com/issue/IDEA-94942)  
 * 如果通过FTP方式同步会导致中文文件名乱码,推荐用SFTP  
