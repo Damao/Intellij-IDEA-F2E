@@ -90,7 +90,12 @@ Duplicate current line or selected block
 
 ![image](images/cmd+d.gif)
 
+`Option`+`f` _（需自定义此快捷键）_     
+设置方法：[设置] - [Keymap] - 搜索"Finder" - 然后设置成自己想要的快捷键，如：`Option + f`    
+Reveal in Finder      
+在 Finder 中打开当前文件的位置
 
+![image](images/open-finder.gif)
 
 
 
