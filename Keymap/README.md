@@ -58,6 +58,7 @@ Comment/uncomment with block comment
 Select successively increasing code blocks     
 多次连击可持续选择爹元素块儿
 
+> windows下是 ctrl+w 单手超好用,选变量名高频操作,建议改成自己喜欢的
 > 选中代码块另一个快速的方式是双击标签行首的空白
 
 ![image](images/option+up.gif)
@@ -91,11 +92,118 @@ Duplicate current line or selected block
 ![image](images/cmd+d.gif)
 
 `Option`+`f` _（需自定义此快捷键）_     
-设置方法：[设置] - [Keymap] - 搜索"Finder" - 然后设置成自己想要的快捷键，如：`Option + f`    
-Reveal in Finder      
+Reveal in Finder        
 在 Finder 中打开当前文件的位置
+
+> 设置方法：`Settings` > `Keymap` - 搜索 "Finder" - 然后设置成自己想要的快捷键，如：`Option`+`f`   
 
 ![image](images/open-finder.gif)
 
 
+`CMD`+`←`     
+Delete line at caret      
+删除光标所在行 (不配图,请自行脑补)
+
+`Option`+`Shift`+`↑`      
+Move line up     
+上移一行
+
+![image](images/option+shift+up.gif)
+
+`Option`+`Shift`+`↓`      
+Move line down     
+下移一行 (图同上)
+
+`Option`+`Shift`+`j`      
+Join lines     
+合并行
+
+![image](images/ctrl+shift+j.gif)
+
+
+`Shift`+`回车`      
+Start new line     
+随时随地开始新的一行(不配图,请自行脑补)
+
+## Multiple carets and selections 多光标和复选相关
+
+
+`Option`+`拖动` 
+Column selection     
+列选择    
+
+![image](images/option+drag.gif)
+
+`Shift`+`Option`+`单击` 
+Add or remove caret     
+增加或移除插入位置     
+
+![image](images/shift+option+click.gif)
+
+
+`Option`+`g` 
+Add or remove caret     
+增加或移除插入位置     
+
+![image](images/shift+option+click.gif)
+
+## Running 运行相关
+
+`Option`+`f11` 
+Run Gulp/Grunt/npm tasks    
+
+![image](images/option+f11.gif)
+
+## Debugging 抓虫子
+
+`F8`/`F7` Step over/ step into    
+`Shift`+`F7` Smart step into    
+`Shift`+`F8` Step out    
+`Option`+`F9` Run to cursor    
+`Option`+`F8` Toggle breakpoint    
+`Shift`+`Option`+`F8` View breakpoint    
+
+## Navigation 导航
+
+ 
+`CMD`+`单击`,`CMD`+`↓`,`CMD`+`b`     
+Go to declaration       
+跳到定义处
+
+![image](images/cmd+click.gif)
+ 
+`CMD`+`o` Go to class      
+`Shift`+`CMD`+`o` Go to file      
+`Shift`+`CMD`+`]` Go to next editor tab      
+`Shift`+`CMD`+`[` Go to previous editor tab           
+`F12` Go to previous tool window           
+`ESC` Go to editor (from tool window)      
+`CMD`+`l` Go to line    
+`CMD`+`e` recent files popup     
+`Option`+`CMD`+`←` Navigate back     
+`Option`+`CMD`+`→` Navigate forward     
+`Shift`+`CMD`+`删除` Navigate to last edit location     
+`Option`+`CMD`+`[` Move to code block start     
+`Option`+`CMD`+`]` Move to code block end     
+`Ctrl`+`m` Move caret to matching brace
+     
+     
+## Search/Replace 搜索替换
+
+`CMD`+`f`/`CMD`+`r` Find/Replace      
+`Shift`+`CMD`+`f` Find in path     
+`Shift`+`CMD`+`r` Replace in path     
+
+## Refactoring 重构
+
+`Ctrl`+`t` Refactor this 出一个菜单来重构,变量名函数名文件名啥的  
+
+> 重构的话会把所有调用的地方一起更改,和关键词批量替换不一样的是会考虑真实调用
+
+![image](images/ctrl+t.gif)
+
+`F5`/`F6` Copy / Move 复制当前文件同时重命名的时候比较有用      
+`CMD`+`删除` Safe Delete 安全删除的时候会分析是否有被调用     
+
+## VCS/Local History 版本控制
 
